@@ -1,0 +1,3 @@
+[submodule "TestRep"]
+	path = TestRep
+	url = https://github.com/EgorFarafonov367578/TestRep
